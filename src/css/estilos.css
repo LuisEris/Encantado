@@ -93,22 +93,22 @@ main .personagem .imagem {
     box-shadow: 0 0 10px #D9D9D9;
 }
 
-.botoes .botao.cyberstorm.selecionado {
+.botoes .botao.tulipa.selecionado {
     box-shadow: 0 0 10px #47FFC5;
 }
 
-.botoes .botao.codepixie.selecionado {
+.botoes .botao.ceu.selecionado {
     box-shadow: 0 0 10px #9747FF;
 }
 
-.botoes .botao.hexblade.selecionado {
+.botoes .botao.sol.selecionado {
     box-shadow: 0 0 10px #FFA947;
 }
 
-.botoes .botao.neonpulse.selecionado {
+.botoes .botao.floresta.selecionado {
     box-shadow: 0 0 10px #E4309A;
 }
 
-.botoes .botao.codebreaker.selecionado {
+.botoes .botao.rozu.selecionado {
     box-shadow: 0 0 10px #FFF047;
 }
